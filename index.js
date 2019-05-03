@@ -14,6 +14,6 @@ function holydayCountdown(days, holyday) {
   return `It's ${days} days until ${holiday}`;
 }
 
-happyHolidaysTo("Reinier");
+happyHolidaysTo("you");
 happyHolydayTo("Holydays","Reinier");
 holydayCountdown("May 3","Holydays");
