@@ -15,5 +15,5 @@ function holydayCountdown(days, holiday) {
 }
 
 happyHolidaysTo("Reinier");
-happyHolidayTo("Holydays","Reinier");
+happyHolidayTo("Holidays","Reinier");
 holydayCountdown("May 3","Holydays");
